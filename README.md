@@ -1,8 +1,8 @@
 # snaccit (Bert pretrained Model Question Answers)
 ## Requirements
 To be able to execute this code, you need to fulfill the following requirement:  
-&nbsp;&nbsp; 1- Python >= 3.5 (In our example we have used Python 3.6)  
-&nbsp;&nbsp; 2- Tensorflow >= 1.10 (In our example we have used Tensoflow 1.13)  
+&nbsp;&nbsp; 1- Python >= 3.5 (In our example we have used **Python 3.6**)  
+&nbsp;&nbsp; 2- Tensorflow >= 1.10 (In our example we have used **Tensoflow 1.13**)  
 &nbsp;&nbsp; 3- Install the bert-as-service via pip with the following Commands:  
 &nbsp;&nbsp;&nbsp;&nbsp; a) `pip install bert-serving-server`   
 &nbsp;&nbsp;&nbsp;&nbsp; b) `pip install bert-serving-client`    
