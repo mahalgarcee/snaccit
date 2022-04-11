@@ -12,5 +12,7 @@ To be able to execute this code, you need to fulfill the following requirement:
 &nbsp;&nbsp;&nbsp;&nbsp; a) `bert-serving-start -model_dir /path/english_L-12_H-768_A-12/ -num_worker=1`   
 &nbsp;&nbsp;&nbsp;&nbsp; b) Let the server running in the command line    
 &nbsp;&nbsp; 6- You will only need to run the **model_train.py** script.  
-:warning: You need to give an **absolute path** (for example: C:/Users/Maha/uncased_L-12_H-768_A-12/uncased_L-12_H-768_A-12) in the model_dir parameter = the path of the downloaded model in Step 4 :point_up:   
-PS :star2: : Make sure the have the following libraries: pandas, re, gensim, scikit-learn :smiley:    
+:warning: You need to give an **absolute path** (for example: C:/Users/Maha/uncased_L-12_H-768_A-12/uncased_L-12_H-768_A-12) in the model_dir parameter = the path of the downloaded model in Step 4 :point_up:  
+  
+PS :star2: Make sure the have the following libraries: pandas, re, gensim, scikit-learn :smiley:    
+PS :star2: I would recommend using a virtual enviromment for this
